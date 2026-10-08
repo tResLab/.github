@@ -18,6 +18,17 @@ The following repositories contain analysis scripts and computational resources 
 
 ---
 
+## Projects & Initiatives
+
+### mRNA Salon
+
+**Emilia-Romagna RNA Salon** is an initiative associated with tRES Lab.
+
+A dedicated page is currently under development and will be updated with further information and resources.
+
+**Website:** [mRNA Salon](https://treslab.github.io/emiliaromagna-rna-salon/)
+
+
 ## Resources & Links
 
 - **Laboratory website:** [tRES Lab](https://www.ausl.re.it/tRES_Lab)
