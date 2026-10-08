@@ -10,9 +10,9 @@ The following repositories contain analysis scripts and computational resources 
 
 ### 2026
 
-**Donati-Lazic et al. — B-cell Score in Classical Hodgkin Lymphoma**
+**Donati-Lazic et al. — B-score in Classical Hodgkin Lymphoma**
 
-*The B-cell score, a surrogate of normal B cells content surrounding tumor cells, defines high risk classical Hodgkin Lymphoma patients.*
+*The B-score, a surrogate of normal B cells content surrounding tumor cells, defines high risk classical Hodgkin Lymphoma patients.*
 
 **Repository:** [2026_Donati-Lazic_BCellsScore](https://github.com/tResLab/2026_Donati-Lazic_BCellsScore)
 
